@@ -1,4 +1,4 @@
-baseURL = "https//musik31.netlify.app/" # The URL of your site.
+baseURL = "https//musdas.github.io/musm/" # The URL of your site.
 title = "MUSIK31" # Title of your site
 theme = "hugo-theme-zzo" # Name of Zzo theme folder in `themes/`.
 
